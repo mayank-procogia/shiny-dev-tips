@@ -33,11 +33,11 @@ self-contained: true
 -   Have extensive hands on experience on all flavors of R products - Shiny, R Markdowns, Quarto, and Package development.
 -   Curious to learn.
 
----
+------------------------------------------------------------------------
 
 ## Overview
 
-Hello There! 
+Hello There!
 
 In this lightning talk, we will touch base on the following high level topics to boost your R development experience.
 
@@ -46,7 +46,7 @@ In this lightning talk, we will touch base on the following high level topics to
 -   Productivity Hacks
 -   Mastering Shortcuts
 
----
+------------------------------------------------------------------------
 
 ## Streamlining Workflow Essentials
 
@@ -55,13 +55,13 @@ In this lightning talk, we will touch base on the following high level topics to
 -   Organize your project structure.
     -   Use/Create a standard project template.
 -   Leverage package management tools
-    -   Utilize `renv` or `packrat` to manage package dependencies. 
+    -   Utilize `renv` or `packrat` to manage package dependencies.
     -   Ensure reproducibility and minimize version conflicts.
 -   Version Control with Git
     -   Track changes, collaborate with team members, and manage project history effectively using Git.
     -   Use Issues, Pull Requests and Connected Commits for efficient and effortless parallel development.
 
----
+------------------------------------------------------------------------
 
 ### Using RStudio Projects
 
@@ -91,29 +91,30 @@ Use your RStudio IDE Toolbar:
 ![](data/creativity.png){.absolute bottom="0" right="0" height="175"}
 :::
 
----
+------------------------------------------------------------------------
 
 ### Organize your project structure
 
 ::: columns
-:::: {.column width="50%"}
--   Maintain a clear and logical directory structure. 
+::: {.column width="50%"}
+-   Maintain a clear and logical directory structure.
 -   Group related files together for easy navigation.
 -   Create, Adopt and Enforce a standard development template for easier developer onboarding and faster development.
 -   Have a project template repository for initial cloning and usage.
 -   Please refer to the right image for an illustrative R project directory structure.
-::::
-:::: {.column width="50%"}
-![](data/ss_rstudio_dir_tree.png){fig-align="center"}
-::::
 :::
 
----
+::: {.column width="50%"}
+![](data/ss_rstudio_dir_tree.png){fig-align="center"}
+:::
+:::
+
+------------------------------------------------------------------------
 
 ## Shiny Development Tips
 
 -   Optimize Server logic
-    -   Minimize unnecessary computations and avoid redundant calculations. 
+    -   Minimize unnecessary computations and avoid redundant calculations.
     -   Profile your code to identify bottlenecks with [`profvis`](http://rstudio.github.io/profvis/){target="_blank"}
 -   Use General Coding principles
     -   DRY (Don't Repeat Yourself)
@@ -122,24 +123,24 @@ Use your RStudio IDE Toolbar:
     -   Document your code for humans.
     -   Clean Code at all costs
     -   Separation of Concerns
-    
-![](data/logo_lightbulb.png){.absolute bottom="0" right="0" height="175"}
 
---- 
+![](data/logo_lightbulb.png){.absolute bottom="60" right="0" height="175"}
+
+------------------------------------------------------------------------
 
 ## Shiny Development Tips
 
 -   Utilize Reactive programming
     -   Use **Waterfall** reactivity model.
     -   Avoid **Spaghetti Reactivity mess**.
-    -   Leverage Shiny's reactivity to update UI elements dynamically based on user input. 
+    -   Leverage Shiny's reactivity to update UI elements dynamically based on user input.
     -   This enhances interactivity and responsiveness.
 -   Implement efficient UI components
     -   Prototype the UI layout using [draw.io](draw.io){target="_blank"} or similar tools.
     -   Use conditional panels, modules, and well-designed layouts to create a user-friendly interface.
     -   Iterate rapidly to test how different implementations enhance UI/UX
 
----
+------------------------------------------------------------------------
 
 ## Productivity Hacks
 
@@ -153,19 +154,19 @@ Use your RStudio IDE Toolbar:
     -   Write scripts to automate routine tasks such as data pre-processing, cleaning, visualization and report generation.
     -   Refactor code into functions with parameters for versatile reusability across projects.
 
----
+------------------------------------------------------------------------
 
 ## Mastering Shortcuts
 
 -   RStudio IDE shortcuts
-    -   Learn key shortcuts for common actions like running code, navigating files, and managing tabs. 
+    -   Learn key shortcuts for common actions like running code, navigating files, and managing tabs.
     -   Boost your coding speed and efficiency.
 -   Shiny-specific keyboard tricks
     -   Use keyboard shortcuts for navigating the app, toggling between UI and server code, and inserting common Shiny functions.
 -   Time-saving code snippets
     -   Store frequently used code snippets in RStudio's code snippets pane for quick access.
 
----
+------------------------------------------------------------------------
 
 ### Keyboard Shortcuts at a glance
 
@@ -175,17 +176,17 @@ RStudio provides dozens of useful shortcuts that you can access through the menu
 
 ![](data/ss_rstudio_tips_position.png){fig-align="center"}
 
----
+------------------------------------------------------------------------
 
 ## Thank you
 
 -   Quarto presentation code available at [GitHub](https://github.com/mayank-procogia/shiny-dev-tips){target="_blank"}
--   Slides available at [GitHub Pages](https://github.com/mayank-procogia/shiny-dev-tips){target="_blank"}
+-   Slides available at [GitHub Pages](https://mayank-procogia.github.io/shiny-dev-tips/rshiny_tips_slides.html){target="_blank"}
 -   Connect and/or send me a DM for a follow up question or catch up
     -   Linkedin: [mayank-agrawal-7jan](https://www.linkedin.com/in/mayank-agrawal-7jan/){target="_blank"}
     -   Twitter: [mayank7jan](https://twitter.com/mayank7jan){target="_blank"}
 
----
+------------------------------------------------------------------------
 
 ## References
 
@@ -213,7 +214,7 @@ RStudio provides dozens of useful shortcuts that you can access through the menu
 
 My favourite Keyboard Shortcuts for R Development Workflow
 
----
+------------------------------------------------------------------------
 
 ## Navigate between Window Panes
 
@@ -229,12 +230,11 @@ Knowing how to toggle between panes without touching your mouse to move your cur
 -   `Control/Ctrl + 8`: Environment
 -   `Control/Ctrl + 9`: Viewer
 
----
+------------------------------------------------------------------------
 
 ### Single Pane View
 
 If you prefer to only have one pane in view at a time, add `Shift` to any of the previous commands to maximize the pane. Use the following shortcuts to bring a panes into primary focus seamlessly.
-
 
 -   `Control/Ctrl + Shift + 1`: Source editor (your script) pane only
 -   `Control/Ctrl + Shift + 2`: Console pane only
@@ -246,7 +246,7 @@ If you prefer to only have one pane in view at a time, add `Shift` to any of the
 -   `Control/Ctrl + Shift + 8`: Environment pane only
 -   `Control/Ctrl + Shift + 9`: Viewer pane only
 
----
+------------------------------------------------------------------------
 
 ### The Classic Four Pane View
 
@@ -256,26 +256,26 @@ Wait! How do I go back to the classic four-pane view?
 
 `Control/Ctrl + Shift + 0` (Mac/Windows): Four-pane RStudio IDE View
 
----
+------------------------------------------------------------------------
 
 ## Console
 
 | **Description**                    | Windows & Linux    | Mac                   |
 |---------------------------------|--------------------|-------------------|
-| *Shift focus of cursor to Console*   | `Ctrl + 2`         | `Control + 2`         |
-| *Clear Console*                      | `Ctrl + L`         | `Control + L`         |
+| *Shift focus of cursor to Console* | `Ctrl + 2`         | `Control + 2`         |
+| *Clear Console*                    | `Ctrl + L`         | `Control + L`         |
 | Move Cursor to beginning of a line | `Home`             | `Cmd + Left`          |
 | Move Cursor to end of a line       | `End`              | `Cmd + Right`         |
 | Move Cursor to start/end of a word | `Alt + Left/Rigth` | `Option + Left/Right` |
 | Navigate command history           | `Up/Down`          | `Up/Down`             |
-| *Pop-up Command history*             | `Ctrl + Up`        | `Cmd + Up`            |
+| *Pop-up Command history*           | `Ctrl + Up`        | `Cmd + Up`            |
 
----
+------------------------------------------------------------------------
 
 ## Source Scripts
 
 | **Description**                   | Windows & Linux    | Mac                |
-|-----------------------------------|--------------------|--------------------|
+|---------------------------------|--------------------|--------------------|
 | *Toggle document outline*         | `Ctrl + Shift + O` | `Cmd + Shift + O`  |
 | *Clear Console*                   | `Ctrl + L`         | `Control + L`      |
 | New R Script                      | `Ctrl + Shift + N` | `Cmd + Shift + N`  |
@@ -284,16 +284,16 @@ Wait! How do I go back to the classic four-pane view?
 | Knit and Preview Document (knitr) | `Ctrl + Shift + K` | `Cmd + Shift + K`  |
 | Insert Chunk (Rmd)                | `Ctrl + Alt + I`   | `Cmd + Option + I` |
 
----
+------------------------------------------------------------------------
 
 ## Find
 
-| **Description**        | Windows & Linux       | Mac                     |
-|------------------------|-----------------------|-------------------------|
-| Find and Replace       | `Ctrl + F`            | `Cmd + F`               |
-| Find in Files          | `Ctrl + Shift + F`    | `Cmd + Shift + F`       |
+| **Description**  | Windows & Linux    | Mac               |
+|------------------|--------------------|-------------------|
+| Find and Replace | `Ctrl + F`         | `Cmd + F`         |
+| Find in Files    | `Ctrl + Shift + F` | `Cmd + Shift + F` |
 
----
+------------------------------------------------------------------------
 
 ## Insert
 
@@ -302,22 +302,22 @@ Wait! How do I go back to the classic four-pane view?
 | Insert Assignment Operator (`<-`) | `Alt + - (hyphen/minus)` | `Option + - (hyphen/minus)` |
 | Insert Pipe Operator (`%>%`)      | `Ctrl + Shift + M`       | `Cmd + Shift + M`           |
 
----
+------------------------------------------------------------------------
 
 ## Code
 
-| **Description**                           | Windows & Linux            | Mac                           |
+| **Description**                             | Windows & Linux            | Mac                           |
 |-------------------------------|-------------------|----------------------|
 | *Re-indent lines*                           | `Ctrl + I`                 | `Cmd + I`                     |
 | *Comment/un-comment current line/selection* | `Ctrl + Shift + C`         | `Cmd + Shift + C`             |
 | *Reformat Selection*                        | `Ctrl + Shift + A`         | `Cmd + Shift + A`             |
-| Move Lines Up/Down                        | `Alt + Up/Down`            | `Option + Up/Down`            |
-| Jump to Matching Brace/Parenthesis        | `Ctrl + P`                 | `Control + P`                 |
-| *Add Cursor via drag*           | `Alt + drag mouse pointer` | `Option + drag mouse pointer` |
+| Move Lines Up/Down                          | `Alt + Up/Down`            | `Option + Up/Down`            |
+| Jump to Matching Brace/Parenthesis          | `Ctrl + P`                 | `Control + P`                 |
+| *Add Cursor via drag*                       | `Alt + drag mouse pointer` | `Option + drag mouse pointer` |
 | *Delete Current Line*                       | `Ctrl + D`                 | `Cmd + D`                     |
-| Insert Roxygen Skeleton                   | `Ctrl + Alt + Shift + R`   | `Cmd + Option + Shift + R`    |
+| Insert Roxygen Skeleton                     | `Ctrl + Alt + Shift + R`   | `Cmd + Option + Shift + R`    |
 
----
+------------------------------------------------------------------------
 
 ## Terminal
 
@@ -326,12 +326,10 @@ Wait! How do I go back to the classic four-pane view?
 | Move Focus to Terminal | `Alt + Shift + M` | `Shift + Option + M` |
 | New Terminal           | `Alt + Shift + R` | `Shift + Option + R` |
 
----
+------------------------------------------------------------------------
 
 ## Session
 
 | **Description**   | Windows & Linux    | Mac               |
 |-------------------|--------------------|-------------------|
 | Restart R session | `Ctrl + Shift + 0` | `Cmd + Shift + 0` |
-
-
