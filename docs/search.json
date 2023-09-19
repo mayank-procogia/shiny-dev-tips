@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "rshiny_tips_slides.html#introduction",
+    "href": "rshiny_tips_slides.html#introduction",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Introduction",
+    "text": "Introduction\n\nWorking with ProCogia\n\nOfficial full service partner with Posit.\nExperts in Data Analytics, Data Engineering, Data Science, BioInformatics, R Development, Setup and Administration.\n\nBackground: Computer Science Engineer and MBA in Business Analytics.\nUsing R and R Shiny for 6+ years.\nArchitected, built and managed more than 40+ R Shiny applications and dashboards.\nBuilt and led teams of 10+ R developers.\nTrained 30+ colleagues on R from diverse backgrounds.\nHave extensive hands on experience on all flavors of R products - Shiny, R Markdowns, Quarto, and Package development.\nCurious to learn."
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#overview",
+    "href": "rshiny_tips_slides.html#overview",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Overview",
+    "text": "Overview\nHello There!\nIn this lightning talk, we will touch base on the following high level topics to boost your R development experience.\n\nStreamlining Workflow Essentials\nShiny Development Tips\nProductivity Hacks\nMastering Shortcuts"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#streamlining-workflow-essentials",
+    "href": "rshiny_tips_slides.html#streamlining-workflow-essentials",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Streamlining Workflow Essentials",
+    "text": "Streamlining Workflow Essentials\n\nUse RStudio Projects\n\nWhy Should I use it?\n\nOrganize your project structure.\n\nUse/Create a standard project template.\n\nLeverage package management tools\n\nUtilize renv or packrat to manage package dependencies.\nEnsure reproducibility and minimize version conflicts.\n\nVersion Control with Git\n\nTrack changes, collaborate with team members, and manage project history effectively using Git.\nUse Issues, Pull Requests and Connected Commits for efficient and effortless parallel development."
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#shiny-development-tips",
+    "href": "rshiny_tips_slides.html#shiny-development-tips",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Shiny Development Tips",
+    "text": "Shiny Development Tips\n\nOptimize Server logic\n\nMinimize unnecessary computations and avoid redundant calculations.\nProfile your code to identify bottlenecks with profvis\n\nUse General Coding principles\n\nDRY (Don’t Repeat Yourself)\nYAGNI (You aren’t going to need it)\nKISS (Keep it Simple Silly)\nDocument your code for humans.\nClean Code at all costs\nSeparation of Concerns"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#shiny-development-tips-1",
+    "href": "rshiny_tips_slides.html#shiny-development-tips-1",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Shiny Development Tips",
+    "text": "Shiny Development Tips\n\nUtilize Reactive programming\n\nUse Waterfall reactivity model.\nAvoid Spaghetti Reactivity mess.\nLeverage Shiny’s reactivity to update UI elements dynamically based on user input.\nThis enhances interactivity and responsiveness.\n\nImplement efficient UI components\n\nPrototype the UI layout using draw.io or similar tools.\nUse conditional panels, modules, and well-designed layouts to create a user-friendly interface.\nIterate rapidly to test how different implementations enhance UI/UX"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#productivity-hacks",
+    "href": "rshiny_tips_slides.html#productivity-hacks",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Productivity Hacks",
+    "text": "Productivity Hacks\n\nDebugging like a pro\n\nDebug via browser(), debug(function_name), and debug points.\nSet breakpoints, step through code, and inspect variables to troubleshoot efficiently.\n\nProfiling and performance tuning\n\nUse tools like profvis to identify performance bottlenecks and Optimize critical sections of your code for speed.\nUse benchmarking techniques to compare computation speeds of various packages. Refer R function rbenchmark::benchmark().\n\nAutomate repetitive tasks with scripts\n\nWrite scripts to automate routine tasks such as data pre-processing, cleaning, visualization and report generation.\nRefactor code into functions with parameters for versatile reusability across projects."
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#mastering-shortcuts",
+    "href": "rshiny_tips_slides.html#mastering-shortcuts",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Mastering Shortcuts",
+    "text": "Mastering Shortcuts\n\nRStudio IDE shortcuts\n\nLearn key shortcuts for common actions like running code, navigating files, and managing tabs.\nBoost your coding speed and efficiency.\n\nShiny-specific keyboard tricks\n\nUse keyboard shortcuts for navigating the app, toggling between UI and server code, and inserting common Shiny functions.\n\nTime-saving code snippets\n\nStore frequently used code snippets in RStudio’s code snippets pane for quick access."
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#thank-you",
+    "href": "rshiny_tips_slides.html#thank-you",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Thank you",
+    "text": "Thank you\n\nQuarto presentation code available at GitHub\nSlides available at GitHub Pages\nConnect and/or send me a DM for a follow up question or catch up\n\nLinkedin: mayank-agrawal-7jan\nTwitter: mayank7jan"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#references",
+    "href": "rshiny_tips_slides.html#references",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "References",
+    "text": "References\n\nRStudio Shortcuts Cheat sheet:\n\nRStudio IDE Toolbar: Help –&gt; Keyboard Shortcuts Help\nMac: Option + Shift + K\nWindows: Alt + Shift + K\n\nCustomizing the RStudio IDE: Link 1 Link 2\nComprehensive documentation and self help guides for using RStudio IDE Link\nUsing RStudio Projects. Link\nPosit Cheat Sheets Link\nProject package management packages - renv and packrat\nprofvis for code profiling and time estimation"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#navigate-between-window-panes",
+    "href": "rshiny_tips_slides.html#navigate-between-window-panes",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Navigate between Window Panes",
+    "text": "Navigate between Window Panes\nKnowing how to toggle between panes without touching your mouse to move your cursor will help save time and improve your workflow. Use the following shortcuts to switch between panes seamlessly (Mac/Windows):\n\nControl/Ctrl + 1: Source editor (your script)\nControl/Ctrl + 2: Console\nControl/Ctrl + 3: Help\nControl/Ctrl + 4: History\nControl/Ctrl + 5: Files\nControl/Ctrl + 6: Plots\nControl/Ctrl + 7: Packages\nControl/Ctrl + 8: Environment\nControl/Ctrl + 9: Viewer"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#console",
+    "href": "rshiny_tips_slides.html#console",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Console",
+    "text": "Console\n\n\n\n\n\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nShift focus of cursor to Console\nCtrl + 2\nControl + 2\n\n\nClear Console\nCtrl + L\nControl + L\n\n\nMove Cursor to beginning of a line\nHome\nCmd + Left\n\n\nMove Cursor to end of a line\nEnd\nCmd + Right\n\n\nMove Cursor to start/end of a word\nAlt + Left/Rigth\nOption + Left/Right\n\n\nNavigate command history\nUp/Down\nUp/Down\n\n\nPop-up Command history\nCtrl + Up\nCmd + Up"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#source-scripts",
+    "href": "rshiny_tips_slides.html#source-scripts",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Source Scripts",
+    "text": "Source Scripts\n\n\n\n\n\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nToggle document outline\nCtrl + Shift + O\nCmd + Shift + O\n\n\nClear Console\nCtrl + L\nControl + L\n\n\nNew R Script\nCtrl + Shift + N\nCmd + Shift + N\n\n\nSave active document\nCtrl + S\nCmd + S\n\n\nClose active document\nCtrl + W\nCmd + W\n\n\nKnit and Preview Document (knitr)\nCtrl + Shift + K\nCmd + Shift + K\n\n\nInsert Chunk (Rmd)\nCtrl + Alt + I\nCmd + Option + I"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#find",
+    "href": "rshiny_tips_slides.html#find",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Find",
+    "text": "Find\n\n\n\n\n\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nFind and Replace\nCtrl + F\nCmd + F\n\n\nFind in Files\nCtrl + Shift + F\nCmd + Shift + F"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#insert",
+    "href": "rshiny_tips_slides.html#insert",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Insert",
+    "text": "Insert\n\n\n\n\n\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nInsert Assignment Operator (&lt;-)\nAlt + - (hyphen/minus)\nOption + - (hyphen/minus)\n\n\nInsert Pipe Operator (%&gt;%)\nCtrl + Shift + M\nCmd + Shift + M"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#code",
+    "href": "rshiny_tips_slides.html#code",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Code",
+    "text": "Code\n\n\n\n\n\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nRe-indent lines\nCtrl + I\nCmd + I\n\n\nComment/un-comment current line/selection\nCtrl + Shift + C\nCmd + Shift + C\n\n\nReformat Selection\nCtrl + Shift + A\nCmd + Shift + A\n\n\nMove Lines Up/Down\nAlt + Up/Down\nOption + Up/Down\n\n\nJump to Matching Brace/Parenthesis\nCtrl + P\nControl + P\n\n\nAdd Cursor via drag\nAlt + drag mouse pointer\nOption + drag mouse pointer\n\n\nDelete Current Line\nCtrl + D\nCmd + D\n\n\nInsert Roxygen Skeleton\nCtrl + Alt + Shift + R\nCmd + Option + Shift + R"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#terminal",
+    "href": "rshiny_tips_slides.html#terminal",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Terminal",
+    "text": "Terminal\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nMove Focus to Terminal\nAlt + Shift + M\nShift + Option + M\n\n\nNew Terminal\nAlt + Shift + R\nShift + Option + R"
+  },
+  {
+    "objectID": "rshiny_tips_slides.html#session",
+    "href": "rshiny_tips_slides.html#session",
+    "title": "Supercharge your R Shiny Development Work flow",
+    "section": "Session",
+    "text": "Session\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nRestart R session\nCtrl + Shift + 0\nCmd + Shift + 0\n\n\n\n\n\n\nR Ladies NYC - 23 September 2023"
+  }
+]
