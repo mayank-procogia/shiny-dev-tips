@@ -1,3 +1,7 @@
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
 https://quarto.org/docs/publishing/github-pages.html#github-action
 https://quarto.org/docs/output-formats/html-publishing.html
+
 https://ucsb-meds.github.io/creating-quarto-websites/
+https://github.com/pommevilla/quarto-render
