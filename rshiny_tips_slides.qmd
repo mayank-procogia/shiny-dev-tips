@@ -46,6 +46,8 @@ In this lightning talk, we will touch base on the following high level topics to
 -   Productivity Hacks
 -   Mastering Shortcuts
 
+![](data/logo_route.png){.absolute bottom="5rem" right="0" height="200"}
+
 ------------------------------------------------------------------------
 
 ## Streamlining Workflow Essentials
@@ -124,7 +126,7 @@ Use your RStudio IDE Toolbar:
     -   Clean Code at all costs
     -   Separation of Concerns
 
-![](data/logo_lightbulb.png){.absolute bottom="60" right="0" height="175"}
+![](data/logo_idea.png){.absolute bottom="50" right="0" height="200"}
 
 ------------------------------------------------------------------------
 
@@ -166,6 +168,8 @@ Use your RStudio IDE Toolbar:
 -   Time-saving code snippets
     -   Store frequently used code snippets in RStudio's code snippets pane for quick access.
 
+![](data/logo_energy.png){.absolute bottom="30" right="0" height="150"}
+
 ------------------------------------------------------------------------
 
 ### Keyboard Shortcuts at a glance
@@ -180,11 +184,13 @@ RStudio provides dozens of useful shortcuts that you can access through the menu
 
 ## Thank you
 
--   Quarto presentation code available at [GitHub](https://github.com/mayank-procogia/shiny-dev-tips){target="_blank"}
--   Slides available at [GitHub Pages](https://mayank-procogia.github.io/shiny-dev-tips/rshiny_tips_slides.html){target="_blank"}
+-   Quarto presentation code available on [GitHub](https://github.com/mayank-procogia/shiny-dev-tips){target="_blank"} at [http://surl.li/lhpmy](http://surl.li/lhpmy){target="_blank"}
+-   Slides available on [GitHub Pages](https://mayank-procogia.github.io/shiny-dev-tips/rshiny_tips_slides.html){target="_blank"} at [http://surl.li/lhplo](http://surl.li/lhplo){target="_blank"}
 -   Connect and/or send me a DM for a follow up question or catch up
     -   Linkedin: [mayank-agrawal-7jan](https://www.linkedin.com/in/mayank-agrawal-7jan/){target="_blank"}
     -   Twitter: [mayank7jan](https://twitter.com/mayank7jan){target="_blank"}
+    
+![](data/logo_thank_you_signboard.png){.absolute bottom="5rem" right="0" height="200"}
 
 ------------------------------------------------------------------------
 
