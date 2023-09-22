@@ -53,7 +53,7 @@
     "href": "rshiny_tips_slides.html#thank-you",
     "title": "Supercharge your R Shiny Development Work flow",
     "section": "Thank you",
-    "text": "Thank you\n\nQuarto presentation code available on GitHub at http://surl.li/lhpmy\nSlides available on GitHub Pages at http://surl.li/lhplo\nConnect and/or send me a DM for a follow up question or catch up\n\nLinkedin: mayank-agrawal-7jan\nTwitter: mayank7jan"
+    "text": "Thank you\n\nQuarto presentation code available on GitHub at http://surl.li/lhpmy\nSlides available on GitHub Pages at http://surl.li/lhplo\nConnect and/or send me a DM for a follow up question or catch up\n\nLinkedin: mayank-agrawal-7jan\nTwitter: mayank7jan\nEmail: mayank.agrawal@procogia.com"
   },
   {
     "objectID": "rshiny_tips_slides.html#references",
@@ -116,6 +116,6 @@
     "href": "rshiny_tips_slides.html#session",
     "title": "Supercharge your R Shiny Development Work flow",
     "section": "Session",
-    "text": "Session\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nRestart R session\nCtrl + Shift + 0\nCmd + Shift + 0\n\n\n\n\n\n\nR Ladies NYC - 23 September 2023"
+    "text": "Session\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nRestart R session\nCtrl + Shift + 0\nCmd + Shift + 0\n\n\n\n\n\n\nR Ladies NYC - September 24, 2023"
   }
 ]
