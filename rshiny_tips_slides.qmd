@@ -1,7 +1,7 @@
 ---
-title: "<span style='color:white; text-shadow: 4px 4px 3px #0000ffad; font-size:84px;'>Supercharge your R Shiny Development Work flow</span>"
-subtitle: "<span style='color:white; text-shadow: 2px 2px 3px #21b8cb; font-size:26px;'>Tips, Tricks and Techniques for boosting Shiny Development Productivity and Efficiency</span>"
-author: "<span style='color:white; text-shadow: 2px 2px 3px #0000ffad;'>Mayank Agrawal<br/><span style='font-size: 22px;'>Senior R developer Consultant I<br/>ProCogia</span></span>"
+title: "<span style='color:white; background-color: #1fb8cc4a; font-size: 80px;'>Supercharge your R Shiny Development Work flow</span>"
+subtitle: "<span style='color:white; background-color: #1fb8cc4a; font-size: 24px;'>Tips, Tricks and Techniques for boosting Shiny Development Productivity and Efficiency</span>"
+author: "<span style='color:white;'>Mayank Agrawal<br/><span style='font-size: 22px;'>Senior R developer Consultant I<br/>ProCogia</span></span>"
 title-slide-attributes: 
   data-background-image: "data/LinkedIn_Banner_01.png"
   data-background-opacity: "0.75"
