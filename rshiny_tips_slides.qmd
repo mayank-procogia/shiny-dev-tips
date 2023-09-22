@@ -184,11 +184,12 @@ RStudio provides dozens of useful shortcuts that you can access through the menu
 
 ## Thank you
 
--   Quarto presentation code available on [GitHub](https://github.com/mayank-procogia/shiny-dev-tips){target="_blank"} at [http://surl.li/lhpmy](http://surl.li/lhpmy){target="_blank"}
--   Slides available on [GitHub Pages](https://mayank-procogia.github.io/shiny-dev-tips/rshiny_tips_slides.html){target="_blank"} at [http://surl.li/lhplo](http://surl.li/lhplo){target="_blank"}
+-   Quarto presentation code available on [GitHub](https://github.com/mayank-procogia/shiny-dev-tips){target="_blank"} at [http://bit.ly/3ZHZTNf](http://bit.ly/3ZHZTNf){target="_blank"}
+-   Slides available on [GitHub Pages](https://mayank-procogia.github.io/shiny-dev-tips/rshiny_tips_slides.html){target="_blank"} at [https://bit.ly/3RsdExn](https://bit.ly/3RsdExn){target="_blank"}
 -   Connect and/or send me a DM for a follow up question or catch up
     -   Linkedin: [mayank-agrawal-7jan](https://www.linkedin.com/in/mayank-agrawal-7jan/){target="_blank"}
     -   Twitter: [mayank7jan](https://twitter.com/mayank7jan){target="_blank"}
+    -   Mastodon: [mayank7j](https://fosstodon.org/@mayank7j){target="_blank"}
     -   Email: [mayank.agrawal@procogia.com](mailto:mayank.agrawal@procogia.com){target="_blank"}
     
 ![](data/logo_thank_you_signboard.png){.absolute bottom="5rem" right="0" height="200"}
