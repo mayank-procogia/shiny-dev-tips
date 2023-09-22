@@ -1,7 +1,7 @@
 ---
-title: "<span style='color:white; text-shadow: 4px 4px 3px #91bd02 ;'>Supercharge your R Shiny Development Work flow</span>"
-subtitle: "<span style='color:white; text-shadow: 2px 2px 3px #91bd02;'>Tips, Tricks and Techniques for boosting Shiny Development Productivity and Efficiency</span>"
-author: "<span style='color:#242a3e; text-shadow: 2px 2px 3px #23b7cb;'>Mayank Agrawal<br/><span style='font-size: 22px;'>Senior R developer Consultant I<br/>ProCogia</span></span>"
+title: "<span style='color:white; text-shadow: 4px 4px 3px #0000ffad; font-size:84px;'>Supercharge your R Shiny Development Work flow</span>"
+subtitle: "<span style='color:white; text-shadow: 2px 2px 3px #21b8cb; font-size:26px;'>Tips, Tricks and Techniques for boosting Shiny Development Productivity and Efficiency</span>"
+author: "<span style='color:white; text-shadow: 2px 2px 3px #0000ffad;'>Mayank Agrawal<br/><span style='font-size: 22px;'>Senior R developer Consultant I<br/>ProCogia</span></span>"
 title-slide-attributes: 
   data-background-image: "data/LinkedIn_Banner_01.png"
   data-background-opacity: "0.75"
@@ -10,7 +10,7 @@ date-format: full
 format: 
   revealjs:
     logo: data/procogia_logo_minimal.png
-    footer: "R Ladies NYC - 23 September 2023"
+    footer: "R Ladies NYC - September 24, 2023"
     smaller: true
     slide-number: true
     transition: slide
@@ -189,6 +189,7 @@ RStudio provides dozens of useful shortcuts that you can access through the menu
 -   Connect and/or send me a DM for a follow up question or catch up
     -   Linkedin: [mayank-agrawal-7jan](https://www.linkedin.com/in/mayank-agrawal-7jan/){target="_blank"}
     -   Twitter: [mayank7jan](https://twitter.com/mayank7jan){target="_blank"}
+    -   Email: [mayank.agrawal@procogia.com](mailto:mayank.agrawal@procogia.com){target="_blank"}
     
 ![](data/logo_thank_you_signboard.png){.absolute bottom="5rem" right="0" height="200"}
 
