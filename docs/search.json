@@ -4,7 +4,7 @@
     "href": "rshiny_tips_slides.html#introduction",
     "title": "Supercharge your R Shiny Development Work flow",
     "section": "Introduction",
-    "text": "Introduction\n\nWorking with ProCogia\n\nOfficial full service partner with Posit.\nExperts in Data Analytics, Data Engineering, Data Science, BioInformatics, R Development, Setup and Administration.\n\nBackground: Computer Science Engineer and MBA in Business Analytics.\nUsing R and R Shiny for 6+ years.\nArchitected, built and managed more than 40+ R Shiny applications and dashboards.\nBuilt and led teams of 10+ R developers.\nTrained 30+ colleagues on R from diverse backgrounds.\nHave extensive hands on experience on all flavors of R products - Shiny, R Markdowns, Quarto, and Package development.\nCurious to learn."
+    "text": "Introduction\n\nBackground: Computer Science Engineer and MBA in Business Analytics.\nUsing R and R Shiny for 6+ years.\nArchitected, built and managed more than 40+ R Shiny applications and dashboards.\nBuilt and led teams of 10+ R developers.\nTrained 30+ colleagues on R from diverse backgrounds.\nHave extensive hands on experience on all flavors of R products - Shiny, R Markdowns, Quarto, and Package development.\nCurious to learn.\nWorking with ProCogia; an Official full service partner with Posit."
   },
   {
     "objectID": "rshiny_tips_slides.html#overview",
@@ -53,7 +53,7 @@
     "href": "rshiny_tips_slides.html#thank-you",
     "title": "Supercharge your R Shiny Development Work flow",
     "section": "Thank you",
-    "text": "Thank you\n\nQuarto presentation code available on GitHub at http://bit.ly/3ZHZTNf\nSlides available on GitHub Pages at https://bit.ly/3RsdExn\nConnect and/or send me a DM for a follow up question or catch up\n\nLinkedin: mayank-agrawal-7jan\nTwitter: mayank7jan\nMastodon: mayank7j\nEmail: mayank.agrawal@procogia.com"
+    "text": "Thank you\n\nQuarto presentation code available on GitHub at http://bit.ly/3ZHZTNf\nSlides available on GitHub Pages at https://bit.ly/3RsdExn\nConnect and/or send me a DM for a follow up question or catch up\n\nLinkedin: mayank-agrawal-7jan\nTwitter: mayank7jan\nMastodon: mayank7j"
   },
   {
     "objectID": "rshiny_tips_slides.html#references",
@@ -116,6 +116,6 @@
     "href": "rshiny_tips_slides.html#session",
     "title": "Supercharge your R Shiny Development Work flow",
     "section": "Session",
-    "text": "Session\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nRestart R session\nCtrl + Shift + 0\nCmd + Shift + 0\n\n\n\n\n\n\nR Ladies NYC - September 24, 2023"
+    "text": "Session\n\n\n\nDescription\nWindows & Linux\nMac\n\n\n\n\nRestart R session\nCtrl + Shift + 0\nCmd + Shift + 0\n\n\n\n\n\nR Ladies NYC - September 24, 2023"
   }
 ]
